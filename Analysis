@@ -1,0 +1,18 @@
+
+
+Ecostruxure Migration 
+--------------------
+Name - US7005-3615-Building Graph-DEV  -- DEV   
+ID - e8000766-e34d-4cc1-b954-752fcc08b989
+Environments - Dev subscription has QA, Test, Sandbox & PreProd env  
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+
+Name - US7005-3615-Building Graph-PROD -- PROD 
+ID - 7abe23f7-ab02-49d7-8727-d903db2b77f2
+Environments - Prod subscription has Prod & UAT
